@@ -23,7 +23,7 @@ class-names / function-name / variable-name / name-space / module-name /…,  ha
 By analyzing the code in the screen, the AI changes the colors, prefixes, and fonts of the lower-case strings entered by humans.
 The upper part of the illustration below is about the future evolution of the keywords 'while(white)', 'for(yellow)', 'if(red)', 'elseif(blue)', 'else(green)'.   tip: whi*e-RBG
 The second half of the illustration is about  the future evolution form of the definition of 'class', 'function' .
-（https://lh6.googleusercontent.com/uFMFrT-k5SLGxNvv3WSpPxQiOL36rk3W63WoZQMP6n6bj9qr1iznJccsigCGM-MtQYkygbHzdILokvOWdvgwuPiL9FA9dQReqql1c7D1wlwXKmPBsVnGovAywlJFxwb0SwEH78oV）
+（codes-style.png）
 It’s close to the ultimate form of programming language
 
 
