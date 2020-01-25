@@ -29,7 +29,7 @@ The second half of the illustration is about  the future evolution form of the d
 8.&ensp;The keywords 'n' ,'index','value' etc have special usage<br>
 9.&ensp;Upward arrow means the number goes up; Downward arrow means the number goes down<br>
 10.&ensp;Using set theory symbols and other mathematical symbols<br>
-11.&ensp;Inserting random code into a specified position in a function, I think it is an anonymous sub-function nested ?<br>
+11.&ensp;Inserting random code into a specified position in a function, isn't it an anonymous sub-function nested ?<br>
    &ensp;&ensp;&ensp;&ensp; We could use specified background-color to represent the definition of random code. </h2>
  
  ![image](https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style-1.png)<br>
