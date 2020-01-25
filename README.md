@@ -24,7 +24,20 @@ Fools like to imagine crazily,  I’m very stupid,  so…..  <br>
 7&ensp;The upper part of the illustration below is about the future evolution of the keywords 'while(white)', 'for(yellow)', 'if(red)', 'elseif(blue)', 'else(green)'.   tip: whi*e-RBG<br>
 The second half of the illustration is about  the future evolution form of the definition of 'class', 'function' <br>
 ![image](https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style.png)<br>
-It’s close to the ultimate form of programming language
+
+<h2>Additional notes: The picture above is wrong.   We need to forcing the end-character of background-color to ccupy a single line<br>
+8.&ensp;The keywords 'n' is specially used for loop statement<br>
+9.&ensp;Upward arrow means the number goes up; Downward arrow means the number goes down<br>
+10.&ensp;Using set theory symbols and other mathematical symbols<br>
+11.&ensp;Inserting random code into a specified position in a function, I think it is an anonymous sub-function nested ?<br>
+   &ensp;&ensp;&ensp;&ensp; We could use specified background-color to represent the definition of random code. </h2>
+ 
+ ![image](https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style-1.png)<br>
+
+
+
+<br><br><br><br><br>
+&ensp;&ensp;It’s close to the ultimate form of programming language
 
 
 
