@@ -22,7 +22,7 @@ Fools like to imagine crazily,  I’m very stupid,  so…..  <br>
 5&ensp;class-names / function-name / variable-name / name-space / module-name /…,  has a unique form<br>
 6&ensp;By analyzing the code in the screen, the AI changes the colors, prefixes, and fonts of the lower-case strings entered by humans.<br>
 7&ensp;The upper part of the illustration below is about the future evolution of the keywords 'while(white)', 'for(yellow)', 'if(red)', 'elseif(blue)', 'else(green)'.   tip: whi*e-RBG<br>
-The second half of the illustration is about  the future evolution form of the definition of 'class', 'function' <br></h2>
+The second half of the illustration is about  the future evolution form of the definition of 'class', 'function'</h2> <br>
 ![image](https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style.png)<br>
 
 <h2><br>
