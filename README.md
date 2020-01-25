@@ -14,7 +14,7 @@ def function1(sdflke,ektjfla;sjfo8xcvl,  <br>
 
 
 Fools like to imagine crazily,  I’m very stupid,  so…..  <br>
-
+<h2>
 1&ensp;To represent a specific data type with a specific  color , specific character or specific font.  For example, common integer variables are directly represented by a specific  font color; Infrequent integer variables are represented by a specific prefix，for example, “Int_var_name” means common integer type with default color ; ””is a 64-bit integer variable name, and “” means another 64-bit integer<br> data type（Signed integer or unsigned integer）,  or Int_var_name
 2&ensp;The definition of a function is represented by a specific  background-color<br>
 3&ensp;The definition of  ends with a line of thick line-divider.<br>
@@ -22,10 +22,10 @@ Fools like to imagine crazily,  I’m very stupid,  so…..  <br>
 5&ensp;class-names / function-name / variable-name / name-space / module-name /…,  has a unique form<br>
 6&ensp;By analyzing the code in the screen, the AI changes the colors, prefixes, and fonts of the lower-case strings entered by humans.<br>
 7&ensp;The upper part of the illustration below is about the future evolution of the keywords 'while(white)', 'for(yellow)', 'if(red)', 'elseif(blue)', 'else(green)'.   tip: whi*e-RBG<br>
-The second half of the illustration is about  the future evolution form of the definition of 'class', 'function' <br>
+The second half of the illustration is about  the future evolution form of the definition of 'class', 'function' <br></h2>
 ![image](https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style.png)<br>
 
-<h2>Additional notes: The picture above is wrong.   We need to forcing the end-character of background-color to ccupy a single line<br>
+<h2><br>
 8.&ensp;The keywords 'n' is specially used for loop statement<br>
 9.&ensp;Upward arrow means the number goes up; Downward arrow means the number goes down<br>
 10.&ensp;Using set theory symbols and other mathematical symbols<br>
