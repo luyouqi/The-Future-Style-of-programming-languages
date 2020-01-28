@@ -32,8 +32,13 @@ The second half of the illustration is about  the future evolution form of the d
 11.&ensp;Inserting random code into a specified position in a function, isn't it an anonymous sub-function nested ?<br>
    &ensp;&ensp;&ensp;&ensp; We could use specified background-color to represent the definition of random code. </h2>
  
- ![image](https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style-1.png)<br>
-
+<img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style1.png" /><br>
+<h2>
+   12. arguments could be represent by underlined, color, italic, bold, or ornamental penmanship strings.<br>
+&ensp;&ensp;&ensp;&ensp;Doing that will have a good effect of formatting and simplifying the loop statement, methods, Anonymous functions etc.<br>
+&ensp;&ensp;&ensp;&ensp;So [else] statements or anonymous functions without parameters, no need to keep a line blank
+</h2><br>
+<img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style-2.png" /><br>
 
 
 <br><br><br><br><br>
