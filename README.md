@@ -37,7 +37,7 @@ The second half of the illustration is about  the future evolution form of the d
 </h2>
 <img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style1.png" /><br>
 <h2>
-   &ensp;&ensp;&ensp;&ensp; 11.2. &ensp; Arguments could be represent by underlined, color, italic, bold, or ornamental penmanship strings. Doing that will have a good effect of formatting and simplifying the loop statement, methods, Anonymous functions etc.  So [else] statements or anonymous functions without parameters, no need to keep a line blank
+11.2. &ensp; Arguments could be represent by underlined, color, italic, bold, or ornamental penmanship strings. Doing that will have a good effect of formatting and simplifying the loop statement, methods, Anonymous functions etc.  So [else] statements or anonymous functions without parameters, no need to keep a line blank
 </h2><br>
 <img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style-2.png" /><br>
 
