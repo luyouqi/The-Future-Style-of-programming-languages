@@ -30,8 +30,9 @@ The second half of the illustration is about  the future evolution form of the d
 9.&ensp;Upward arrow means the number goes up; Downward arrow means the number goes down<br>
 10.&ensp;Using set theory symbols and other mathematical symbols<br>
 11.&ensp;Inserting random code into a specified position in a function, isn't it an anonymous sub-function nested ?<br>
-   &ensp;&ensp;&ensp;&ensp; We could use specified background-color to represent the definition of random code. </h2>
- 
+   &ensp;&ensp;&ensp;&ensp; We could use specified background-color to represent the definition of random code.<br><br>
+   &ensp;&ensp;&ensp;&ensp; Do not declare unnecessary parameters in random code.<br><br>
+</h2>
 <img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style1.png" /><br>
 <h2>
    12. arguments could be represent by underlined, color, italic, bold, or ornamental penmanship strings.<br>
