@@ -32,23 +32,22 @@ The second half of the illustration is about  the future evolution form of the d
 11.&ensp;Inserting random code into a specified position in a function, isn't it an anonymous sub-function nested ?<br>
    &ensp;&ensp; We could use specified background-color to represent the definition of random code.<br><br>
    &ensp;&ensp;11.1 &ensp;Try not to declare parameters in random code，
-   &ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp;&ensp; but declare them in the Anonymous sub-function nested in the function called.<br>
+   &ensp;&ensp;&ensp;&ensp; &ensp; but declare them in the Anonymous sub-function nested in the function called.<br>
    <br><br><br>
 </h2>
 <img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style1.png" /><br>
 <h2>
-   &ensp;&ensp;&ensp;&ensp; &ensp;11.2. &ensp; Arguments could be represent by underlined, color, italic,<br>
-   bold, or ornamental penmanship strings.<br>
-&ensp;&ensp;Doing that will have a good effect of formatting and simplifying the loop <br>
-   statement, methods, Anonymous functions etc.<br>
-&ensp;&ensp;So [else] statements or anonymous functions without parameters, no need to    <br> 
-   keep a line blank
+   &ensp;&ensp;11.2. &ensp; Arguments could be represent by underlined, color, italic,<br>
+  &ensp;&ensp;&ensp;&ensp; &ensp; bold, or ornamental penmanship strings.<br>
+&ensp;&ensp;&ensp;&ensp; &ensp;Doing that will have a good effect of formatting and simplifying the loop <br>
+ &ensp;&ensp;&ensp;&ensp; &ensp;  statement, methods, Anonymous functions etc.<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;So [else] statements or anonymous functions without parameters, no need to    <br> 
+&ensp;&ensp;&ensp;&ensp; &ensp;   keep a line blank
 </h2><br>
 <img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style-2.png" /><br>
 
 
 <br><br><br><br><br>
 &ensp;&ensp;<h1>Colors in pictures are not regular</h1>
-
 
 
