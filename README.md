@@ -31,13 +31,13 @@ The second half of the illustration is about  the future evolution form of the d
 10.&ensp;Using set theory symbols and other mathematical symbols<br>
 11.&ensp;Inserting random code into a specified position in a function, isn't it an anonymous sub-function nested ?<br>
    &ensp;&ensp; We could use specified background-color to represent the definition of random code.<br><br>
-   &ensp;&ensp;11.1 &ensp;Try not to declare parameters in random code，
-   &ensp;&ensp;&ensp;&ensp; but declare them in the Anonymous sub-function nested in the function called.<br>
+   &ensp;&ensp;11.1 &ensp;Try not to declare parameters in random code，but declare them <br> 
+   &ensp;&ensp;&ensp;&ensp; &ensp;&ensp;in the Anonymous sub-function nested in the function called.<br>
    <br><br><br>
 </h2>
 <img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style1.png" /><br>
 <h2>
-11.2. &ensp; Arguments could be represent by underlined, color, italic, bold, or ornamental penmanship strings. Doing that will have a good effect of formatting and simplifying the loop statement, methods, Anonymous functions etc.  So [else] statements or anonymous functions without parameters, no need to keep a line blank
+11.2. &ensp; Arguments could be represent by underlined, color, italic, bold, or ornamental penmanship strings. Doing that will have a good effect of formatting and simplifying the loop statement, methods, Anonymous functions etc.  So an [ else ]  statement or random code without parameters, no need to keep a line blank.
 </h2><br>
 <img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style-2.png" /><br>
 
