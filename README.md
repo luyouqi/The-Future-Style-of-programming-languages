@@ -37,7 +37,7 @@ In other words, in functions of basic data types, the parameters of anonymous su
 </h2>
 <img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style1.png" /><br>
 <h2>
-12. &ensp; Arguments could be represent by underlined, color, italic, bold, or ornamental penmanship strings. Doing that will have a good effect of formatting and simplifying the loop statement, methods, Anonymous functions etc.  So an [ else ]  statement or random code without parameters, no need to keep a line blank.
+12. &ensp; Arguments could be represent by underlined, color, italic, bold, or ornamental penmanship strings. Doing that will have a good effect of formatting and simplifying the condition statement, methods, Anonymous functions etc.  So an [ else ]  statement or random code without parameters, no need to keep a line blank.
 </h2><br>
 <img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style-2.png" /><br>
 
