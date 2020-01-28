@@ -31,8 +31,8 @@ The second half of the illustration is about  the future evolution form of the d
 10.&ensp;Using set theory symbols and other mathematical symbols<br>
 11.&ensp;Inserting random code into a specified position in a function, isn't it an anonymous sub-function nested ?<br>
    &ensp;&ensp; We could use specified background-color to represent the definition of random code.<br><br>
-   &ensp;&ensp;11.1 &ensp;Try not to declare parameters in random code，but declare them <br> 
-   &ensp;&ensp;&ensp;&ensp; &ensp;&ensp;in the Anonymous sub-function nested in the function called.<br>
+   &ensp;&ensp;11.1 &ensp;the programmer can only understand the use of random code by understanding the entire called function.
+In other words, in functions of basic data types, the parameters of anonymous sub-functions are represented by keywords, not declaring parameters in random code can simplify the code. for other functions, declaring parameters in random code is not helpful for understanding function called and its sub-fuction.<br>
    <br><br><br>
 </h2>
 <img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style1.png" /><br>
