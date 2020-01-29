@@ -29,7 +29,7 @@ The second half of the illustration is about  the future evolution form of the d
 8.&ensp;The keywords 'n' ,'index','value' etc have special usage<br>
 9.&ensp;Upward arrow means the number goes up; Downward arrow means the number goes down<br>
 10.&ensp;Using set theory symbols and other mathematical symbols<br>
-11.&ensp; For people like me with a medium IQ, the code blocks in ruby or the decorators in python always feel complicated，cannot learn, and always quickly forget. <br>
+11.&ensp; For people like me with a low IQ, the code blocks in ruby or the decorators in python always feel complicated，cannot learn, and always quickly forget. <br>
 &ensp;&ensp;I think a special background color should be set to handle such operations. <br>
 &ensp;&ensp;The purpose of this background color: Inserting functions (such as funthion_a (1,3)) or random code into the the function called, then execute at the specified position in the body of the function called.
    <br><br><br>
