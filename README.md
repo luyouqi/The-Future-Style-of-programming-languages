@@ -34,7 +34,7 @@ The second half of the illustration is about  the future evolution form of the d
 &ensp;&ensp;The purpose of this background color: Inserting functions (such as funthion_a (1,3)) or random code into the the function called, then execute at the specified position in the body of the function called.
    <br><br><br>
 </h2>
-<img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style-1.png" /><br>
+<img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style1.png" /><br>
 <h2>
 12. &ensp; Arguments could be represent by underlined, color, italic, bold, or ornamental penmanship strings. Doing that will have a good effect of formatting and simplifying the condition statement, methods, Anonymous functions etc.  So an [ else ]  statement or random code without parameters, no need to keep a line blank.
 </h2><br>
