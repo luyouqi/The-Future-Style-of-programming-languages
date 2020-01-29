@@ -29,13 +29,12 @@ The second half of the illustration is about  the future evolution form of the d
 8.&ensp;The keywords 'n' ,'index','value' etc have special usage<br>
 9.&ensp;Upward arrow means the number goes up; Downward arrow means the number goes down<br>
 10.&ensp;Using set theory symbols and other mathematical symbols<br>
-11.&ensp;Inserting random code into a specified position in a function, isn't it an anonymous sub-function nested ?<br>
-   &ensp;&ensp; We could use specified background-color to represent the definition of random code.<br><br>
-   &ensp;&ensp;11.1 &ensp;the programmer can only understand the use of random code by understanding the entire called function.
-In other words, in functions of basic data types, the parameters of anonymous sub-functions are represented by keywords, not declaring parameters in random code can simplify the code. for other functions, declaring parameters in random code is not helpful for understanding function called and its sub-fuction.<br>
+11.&ensp; For people like me with a medium IQ, the code blocks in ruby or the decorators in python always feel complicated，cannot learn, and always quickly forget. <br>
+&ensp;&ensp;I think a special background color should be set to handle such operations. <br>
+&ensp;&ensp;The purpose of this background color: Inserting functions (such as funthion_a (1,3)) or random code into the the function called, then execute at the specified position in the body of the function called.
    <br><br><br>
 </h2>
-<img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style1.png" /><br>
+<img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style-1.png" /><br>
 <h2>
 12. &ensp; Arguments could be represent by underlined, color, italic, bold, or ornamental penmanship strings. Doing that will have a good effect of formatting and simplifying the condition statement, methods, Anonymous functions etc.  So an [ else ]  statement or random code without parameters, no need to keep a line blank.
 </h2><br>
