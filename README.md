@@ -38,7 +38,7 @@ The second half of the illustration is about  the future evolution form of the d
 <h2>
 12. &ensp; Introducing public place signs into programming languages，for example, traffic lights as exception handling.
 </h2><br>
-<img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style2.png" /><br>
+<img src="https://github.com/luyouqi/The-Future-Style-of-programming-languages/blob/master/code-style-2.png" /><br>
 
 
 <br><br><br><br><br>
